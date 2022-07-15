@@ -1,2 +1,2 @@
-# basics
-brushing up my programming fundamentals, nothing much
+# codingStudy
+//programming and dsa random stuff
